@@ -1,0 +1,37 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+      Language
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+
+</ion-content>
+
+
+
+<ion-content padding class="about">
+  <p translate>SELECT_LANGUAGE</p>
+				<select ng-model="lang" ng-options="l.title for l in language" id="languagePicker" ng-change="languageStored(lang)">
+					<option value="" translate>CHOOSELANGUAGE</option>
+				</select>
+
+
+        <div style="padding-left:30px">
+				<p translate="VARIABLE_REPLACEMENT"></p>
+				<p translate="TITLE"></p>
+				<p translate="Sample"></p>
+				<p translate="Step1"></p>
+				<p translate="Step1Detail"></p>
+				<p translate="Step2"></p>
+				<p translate="Step2Detail"></p>
+				<p translate="Step3"></p>
+				<p translate="Step3Detail"></p>
+				<p translate="Step4"></p>
+				<p translate="Step4Detail"></p>
+				<p translate="Result"></p>
+			</div>
+      	<div>Back to Calculator</div>
+</ion-content>

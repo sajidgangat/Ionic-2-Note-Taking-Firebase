@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\ionic\MyIonic2Firebase\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="E:\ionic\MyIonic2Firebase\platforms\android\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.1.1_139a4187f10090f9a7052e0ce580fd7fd9bfac5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ionic\MyIonic2Firebase\platforms\android\build\intermediates\exploded-aar\android\CordovaLib\unspecified\debug\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="afe8eb4906b94df000e2b3714c864ec42d4e4ea6">
+        <dex dex="E:\ionic\MyIonic2Firebase\platforms\android\build\intermediates\pre-dexed\debug\CordovaLib-unspecified-debug_d96a15cd30e087fc02d5ff0f6a980b499b8eb68c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAJ\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="E:\ionic\MyIonic2Firebase\platforms\android\build\intermediates\pre-dexed\debug\support-annotations-24.1.1_29b5a394b6c5d7bface77e294e0f2d358850090b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ionic\MyIonic2Firebase\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="E:\ionic\MyIonic2Firebase\platforms\android\build\intermediates\pre-dexed\debug\internal_impl-24.1.1_984f36a632e17b3445fe03904a1ff3ebd38d42e2.jar" />
+    </item>
+
+</items>

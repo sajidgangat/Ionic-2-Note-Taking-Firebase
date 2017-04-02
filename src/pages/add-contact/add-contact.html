@@ -1,0 +1,38 @@
+<!--
+  Generated template for the AddContact page.
+
+  See http://ionicframework.com/docs/v2/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header color="secondary" >
+
+  <ion-navbar color="secondary">
+    <ion-title>Add Notes</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding class="add-contact">
+<ion-item>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+   <input type="hidden" [(ngModel)]="contact.id" />
+    <ion-label color="primary" floating>Title</ion-label>
+    <ion-input [(ngModel)]="contact.title" type="text" placeholder=""></ion-input>
+  </ion-item>
+  <ion-item>
+    <ion-label color="primary" floating>Enter Notes</ion-label>
+    <ion-input [(ngModel)]="contact.note" cols="40" rows="5"  type="text" placeholder=""></ion-input>
+  </ion-item>
+  <br>
+  <br>
+  <button ion-button block (click)="addContact(contact.id ,contact.title, contact.note)"> Add Note </button>
+ 
+</ion-content>

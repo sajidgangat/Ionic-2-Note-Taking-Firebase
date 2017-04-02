@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\ionic\\MyIonic2Firebase\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\xml\\sharing_paths.xml",
+        "source": "E:\\ionic\\MyIonic2Firebase\\platforms\\android\\res\\xml\\sharing_paths.xml"
+    },
+    {
+        "merged": "E:\\ionic\\MyIonic2Firebase\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\xml\\config.xml",
+        "source": "E:\\ionic\\MyIonic2Firebase\\platforms\\android\\res\\xml\\config.xml"
+    }
+]
