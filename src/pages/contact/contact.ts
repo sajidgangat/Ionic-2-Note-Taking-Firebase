@@ -35,7 +35,7 @@ deleteContact(contact) {
 }
 
 whatsappShare(abc){
-    this.sharingVar.shareViaWhatsApp("Message via WhatsApp", null /*Image*/,  abc /* url */)
+    this.sharingVar.shareViaWhatsApp("", null /*Image*/,  abc /* url */)
       .then(()=>{
         alert("Success");
       },

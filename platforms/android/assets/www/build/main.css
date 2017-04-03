@@ -24520,3 +24520,43 @@ ion-navbar.toolbar {
     padding-top: calc(16px + 20px);
   }
 }
+
+page-about .black-olive {
+  color: #3E3E3E;
+}
+
+page-about .tart-orange {
+  color: #F34B49;
+}
+
+page-about .bg-black-olive {
+  background-color: #3E3E3E;
+}
+
+page-about .bg-tart-orange {
+  background-color: #F34B49;
+}
+
+page-about .border-black-olive {
+  border-color: #3E3E3E;
+}
+
+page-about .border-tart-orange {
+  border-color: #F34B49;
+}
+
+page-about .width-100 {
+  width: 100vw;
+}
+
+page-about .height-100 {
+  height: 100vh;
+}
+
+page-about .h-headline {
+  font-size: 3rem;
+}
+
+page-about .border-1 {
+  border-width: 1rem;
+}
